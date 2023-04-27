@@ -1,4 +1,4 @@
-#  EJECUTO EL CODIGO EN SU COMPILADOR FAVORITE
+#  EJECUTE EL CODIGO EN SU COMPILADOR FAVORITE
 
 
 # Definir la cantidad de puntos de historia de usuario completados en un sprint
